@@ -1,0 +1,1 @@
+This code is used to reproduce results from my final project in Modeling Complex Systems II. Titled "On application of Brownian fields to diffusion-limited aggregation". Literature not yet publicly available.
